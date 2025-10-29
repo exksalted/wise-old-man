@@ -1,6 +1,7 @@
 export const PlayerBuild = {
   MAIN: 'main',
   F2P: 'f2p',
+  F2P_IM: 'f2p_im',
   F2P_LVL3: 'f2p_lvl3',
   LVL3: 'lvl3',
   ZERKER: 'zerker',
